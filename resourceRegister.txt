@@ -1,0 +1,12 @@
+ L I S T A  D E  R E C U R S O S
+ = = = = =  = =  = = = = = = = =
+
+
+ ID...............: 1
+ Nome............: Mesa
+ Responsável.......: Joaquim
+
+
+ ID...............: 2
+ Nome............: Cadeira
+ Responsável.......: Joaquim
